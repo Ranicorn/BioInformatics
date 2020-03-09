@@ -6,3 +6,4 @@
 * [1.DNA Sequencing.md](https://github.com/Ranicorn/BioInformatics/blob/master/1.DNA%20Sequencing.md) - 2020.03.06
 * [2.생물 기본 정리.md](https://github.com/Ranicorn/BioInformatics/blob/master/2.%EC%83%9D%EB%AC%BC%20%EA%B8%B0%EB%B3%B8%20%EC%A0%95%EB%A6%AC.md) - 2020.03.08
 * [3.Marker.md](https://github.com/Ranicorn/BioInformatics/blob/master/3.Marker.md) - 2020.03.09
+* [4.HGAP Process Overview.md](https://github.com/Ranicorn/BioInformatics/blob/master/4.HGAP%20Process%20Overview.md) - 2020.03.09
