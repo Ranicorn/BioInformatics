@@ -10,5 +10,8 @@
 ________________________
 * [5.Bacteria Assemble 과정.md](https://github.com/Ranicorn/BioInformatics/blob/master/5.Bacteria%20Assemble%20%EA%B3%BC%EC%A0%95.md) - 2020.03.09
 
-> 내가 하게 될 일에 대해 알려주신 protocol 정리
+> 알려주신 protocol 정리한 건데 보안상 다 넣지는 않았음
 ________________________
+
+2020.03.11 ~ 
+-> 해야하는 일이 생겨서 추가적으로 더 배우거나 알게된 것 추가 ㄱㄱ
